@@ -1,0 +1,2 @@
+2026-01-15 10:12:45 INFO app=auth user=john endpoint=/login txnId=aa11 latency=120ms msg=ok
+2026-01-15 10:14:10 ERROR app=payments user=raj endpoint=/pay txnId=cc33 latency=2200ms msg=failed reason=timeout
